@@ -1,1 +1,1 @@
-{"idMaquina":123,"idEmpresa":"1","nomeMaquina":"TESTE","hashMaquina":"00000000","cnpj":"000.000.000-0001","razaoSocial":"TESTE","descricao":"TESTE","ativa":true,"bloqueada":false,"autorizaEdicaoLocal":true,"maquinaPromobs":[],"idUsuario":123,"empresaAtiva":true}
+{"idMaquina":123,"idEmpresa":"1","nomeMaquina":"TESTE","hashMaquina":"0000000","cnpj":"000.000.000-0001","razaoSocial":"TESTE","descricao":"TESTE","ativa":true,"bloqueada":false,"autorizaEdicaoLocal":true,"maquinaPromobs":[],"idUsuario":123,"empresaAtiva":true}
