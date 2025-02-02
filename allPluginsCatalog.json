@@ -96,7 +96,7 @@
 ,{"$id":"96","pluginId":"201123","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
 ,{"$id":"97","pluginId":"002451","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
 ,{"$id":"98","pluginId":"201122","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
-,{"$id":"99","pluginId":"002501","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
+,{"$id":"99","pluginId":"2501","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
 ,{"$id":"100","pluginId":"201121","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
 ,{"$id":"101","pluginId":"101231","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
 ,{"$id":"102","pluginId":"201106","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
@@ -311,6 +311,4 @@
 ,{"$id":"311","pluginId":"002615","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
 ,{"$id":"312","pluginId":"002359","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
 ,{"$id":"313","pluginId":"002358","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
-,{"$id":"314","pluginId":"002357","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
-,{"$id":"315","pluginId":"2501","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}
-,{"$id":"316","pluginId":"2434","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}]
+,{"$id":"314","pluginId":"002357","name":"Plugin","productId":3474,"library":"1334","freeSerialNumber":null,"activeSerialNumber":"63973831","contractEndDate":"2088-03-08T00:00:00"}]
