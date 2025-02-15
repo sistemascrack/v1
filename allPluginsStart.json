@@ -2718,5 +2718,25 @@
         "freeSerialNumber": null,
         "activeSerialNumber": "63973831",
         "contractEndDate": "2088-03-08T00:00:00"
+    },
+    {
+        "$id": "273",
+        "pluginId": "002511",
+        "name": "Plugin",
+        "productId": 3474,
+        "library": "1334",
+        "freeSerialNumber": null,
+        "activeSerialNumber": "63973831",
+        "contractEndDate": "2088-03-08T00:00:00"
+    },
+    {
+        "$id": "274",
+        "pluginId": "002514",
+        "name": "Plugin",
+        "productId": 3474,
+        "library": "1334",
+        "freeSerialNumber": null,
+        "activeSerialNumber": "63973831",
+        "contractEndDate": "2088-03-08T00:00:00"
     }
 ]
