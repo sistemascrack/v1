@@ -1,1 +1,1 @@
-<ResultOfstring xmlns="http://schemas.datacontract.org/2004/07/Procad.DTO.ApplicationLayer.Objects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><InnerMessage i:nil="true"/><ResultCode>Success</ResultCode><ResultValue>774913216822</ResultValue></ResultOfstring>
+<ResultOfstring xmlns="http://schemas.datacontract.org/2004/07/Procad.DTO.ApplicationLayer.Objects" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><InnerMessage i:nil="true"/><ResultCode>Success</ResultCode><ResultValue>true</ResultValue></ResultOfstring>
