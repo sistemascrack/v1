@@ -2862,6 +2862,16 @@
     },
     {
         "$id": "287",
+        "pluginId": "913867",
+        "name": "Plugin",
+        "productId": 3474,
+        "library": "1334",
+        "freeSerialNumber": null,
+        "activeSerialNumber": "63973831",
+        "contractEndDate": "2088-03-08T00:00:00"
+    },
+    {
+        "$id": "288",
         "pluginId": "914186",
         "name": "Plugin",
         "productId": 3474,
