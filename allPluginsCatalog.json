@@ -2959,10 +2959,19 @@
         "freeSerialNumber": null,
         "activeSerialNumber": "63973831",
         "contractEndDate": "2088-03-08T00:00:00"
+    },
+    {
+        "$id": "297",
+        "pluginId": "914322",
+        "name": "Plugin",
+        "productId": 3474,
+        "library": "1334",
+        "freeSerialNumber": null,
+        "activeSerialNumber": "63973831",
+        "contractEndDate": "2088-03-08T00:00:00"
     }
-	
-	
 ]
+
 
 
 
